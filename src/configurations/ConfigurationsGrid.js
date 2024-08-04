@@ -12,7 +12,7 @@ function ConfigurationsGrid({ configurations, updateConfiguration, deleteConfigu
             headerName: "Custom Field",
         },
         {
-            field: "jiraField",
+            field: "jiraField.jiraField",
             headerName: "Jira Field",
         },
         {
